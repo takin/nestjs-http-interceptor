@@ -1,0 +1,16 @@
+{
+  "name": "nestjs-http-interceptor",
+  "version": "1.0.0",
+  "description": "A NestJS HTTP Response interceptor to uniform the response object",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Syamsul Muttaqin",
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/common": "^6.10.1",
+    "rxjs": "^6.5.3"
+  }
+}
