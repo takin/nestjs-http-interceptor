@@ -10,7 +10,7 @@
   "author": "Syamsul Muttaqin",
   "license": "ISC",
   "dependencies": {
-    "@nestjs/common": "^6.10.1",
+    "@nestjs/common": "^9.4.0",
     "rxjs": "^6.5.3"
   }
 }
